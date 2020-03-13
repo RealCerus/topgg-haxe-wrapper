@@ -1,0 +1,12 @@
+{
+  "name": "topgg-wrapper",
+  "url" : "https://github.com/RealCerus/topgg-haxe-wrapper/",
+  "license": "MIT",
+  "tags": ["api-wrapper", "http"],
+  "description": "This is a wrapper for the top.gg api.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Cerus"],
+  "main": "topggwrapper.Main"
+}
