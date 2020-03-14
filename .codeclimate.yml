@@ -1,3 +1,6 @@
 plugins:
  haxe-checkstyle:
     enabled: true
+    checks:
+      Indentation:
+        enabled: false
