@@ -32,9 +32,9 @@ class Main {
         }
 
         var wrapper = WrapperBuilder.builder()
-        .setToken(token)
-        .setBotId(botId)
-        .create();
+                    .setToken(token)
+                    .setBotId(botId)
+                    .create();
 
         trace(wrapper.getStats(wrapper.getBotId()));
     }
