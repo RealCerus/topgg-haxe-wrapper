@@ -1,9 +1,14 @@
 package topggwrapper;
 
-import topggwrapper.WrapperBuilder;
-
+/**
+* An example class for this project.
+**/
 class Main {
-    static public function main() {
+
+    /**
+    * Runs the example.
+    **/
+    public static function main() {
         var args = Sys.args();
 
         var token = null;
